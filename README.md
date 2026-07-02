@@ -1,2 +1,2 @@
-# Infosys_FreightQuote_AI-
+# Infosys_FreightQuote_AI
 Infosys Springboard project
